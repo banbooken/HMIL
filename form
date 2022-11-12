@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>菜鸟教程(runoob.com)</title>
+<style type="text/css";>
+</style>
+</head>
+<body>
+<div style="text-align: center;">
+
+<div id="zong" style="width: 500px;">
+
+<div id = "background-colour" style="background-color:yellow;">
+<h1 style="margin-bottom:0;">网页标题</h1></div>
+
+<div id="menu" style="background-color: rgb(190, 167, 66); width:200px; height:200px; float: left;" >
+<b>菜单</b>
+<p>HTML</p>
+<p>CSS</p>
+<p>JS</p>
+
+</div>
+
+<div id="p" style="background-color:bisque; width:300px; height: 200px;float:left;">
+<p>here`s the latest news</p>
+
+</div>
+
+<div id="footer" style="background-color: rgb(190, 167, 66);clear:both;">
+<p>版权所有@赵海锋_banbooken</p>
+
+</div>
+</body>
+</html>
